@@ -37,6 +37,8 @@ sudo apt-get install iverilog
 ![Screenshot 2024-02-21 220757](https://github.com/chethanrao255/chethan/assets/160584527/659c5ca1-b16f-4a30-8d7d-a10d57e981df)
 
 TASK 2
+
+Block diagram (Traffic light cintroller)
 ![WhatsApp Image 2024-02-22 at 11 03 29 AM](https://github.com/chethanrao255/chethan/assets/160584527/41ad96d4-a820-43b3-9fa2-5b4e44e18795)
 
 ![WhatsApp Image 2024-02-22 at 11 03 30 AM](https://github.com/chethanrao255/chethan/assets/160584527/9da102d7-0629-4059-95b3-53f5a09ef917)
