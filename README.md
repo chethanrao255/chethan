@@ -16,6 +16,18 @@ sudo apt install gtkwave
 
 
 
+sudo apt install vim
+![Screenshot 2024-02-21 220913](https://github.com/chethanrao255/chethan/assets/160584527/a0973ecc-4cb2-42bf-a734-e46302d2db65)
+
+
+sudo apt-get install git
+![Screenshot 2024-02-21 221013](https://github.com/chethanrao255/chethan/assets/160584527/661371a9-ed8f-4db7-b1a9-09833b1d389c)
+
+
+
+
+
+
 
 
 
